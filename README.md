@@ -1,5 +1,10 @@
 Saludos, :vulcan_salute: soy Tiare, bienvenidos a mi perfil! 
-<br><br>Acerca de mí<br><br>Soy nueva en este viaje del aprendizaje del desarrollo web 💻. Durante mi reciente travesía de aprendizaje, he adquirido habilidades en diversas tecnologías web como `HTML`, `JavaScript`, `Node.js` y `CSS` entre otras :bike:.<br>Me enorgullezco de mi capacidad para aprender constantemente y mejorar en las habilidades que he adquirido 🌱, así como de mi capacidad para trabajar en equipo y entregar proyectos con dedicación y esfuerzo.<br><br>:link: ¡Échale un vistazo a mis repositorios para descubrir lo que he estado aprendiendo y creando :alembic:! Siempre estoy dispuesta ha oportunidades para aprender y crecer en el desafiantes pero interesante mundo del desarrollo web.
+<br><br>Acerca de mí<br><br>Soy nueva en este viaje del aprendizaje del desarrollo web 💻. Durante mi reciente travesía de aprendizaje, he adquirido habilidades en diversas tecnologías web como `HTML`, `JavaScript`, `Node.js` y `CSS` entre otras :bike:.<br>Me enorgullezco de mi capacidad para aprender constantemente y mejorar en las habilidades que he adquirido 🌱, así como de mi capacidad para trabajar en equipo y entregar proyectos con dedicación y esfuerzo.<br><br>:link: ¡Échale un vistazo a mis repositorios para descubrir lo que he estado aprendiendo y creando :alembic:! Siempre estoy dispuesta a nuevas oportunidades para aprender y crecer en el desafiantes pero interesante mundo del desarrollo web :sparkling_heart:.
+
+### Fun facts sobre mí: 
+:fries: Amo profundamente las papas fritas y soy una curiosa de la comida Coreana :raised_hands:.
+:new_moon_with_face: Disfruto desde los clasicos del horror hasta series de anime.
+Me encanta compartir risas y experiencias con los demás. Me considero una persona confiable, dispuesta a escuchar y ofrecer consejos cuando sea necesario :people_hugging:.
 
 
 ### :round_pushpin: Siempre puedes encontrarme en:
